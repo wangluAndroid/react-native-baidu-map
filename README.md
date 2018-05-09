@@ -1,4 +1,4 @@
-# 此项目只是在[lovebing项目上扩展实现的](h://github.com/wangluAndroid/react-native-baidu-map/blob/master/images/ic_route_plan.pttps://github.com/lovebing/react-native-baidu-map)，感谢lovebing!添加了一个骑行路线规划的功能,去除了marker点击显示的功能，暂不支持ios；
+# 此项目只是在[lovebing项目上扩展实现的](https://github.com/wangluAndroid/react-native-baidu-map/blob/master/images/ic_route_plan.pttps://github.com/lovebing/react-native-baidu-map)，感谢lovebing!添加了一个骑行路线规划的功能,去除了marker点击显示的功能，暂不支持ios；
 # react-native-baidu-map 
 
 Baidu Map SDK modules and view for React Native(Android & IOS), support react native 0.30+
