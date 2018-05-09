@@ -1,4 +1,18 @@
-# 此项目只是在[lovebing项目上扩展实现的](https://github.com/wangluAndroid/react-native-baidu-map/blob/master/images/ic_route_plan.pttps://github.com/lovebing/react-native-baidu-map)，感谢lovebing!添加了一个骑行路线规划的功能,去除了marker点击显示的功能，暂不支持ios；
+### 此项目只是在[lovebing项目上扩展实现的](https://github.com/wangluAndroid/react-native-baidu-map/blob/master/images/ic_route_plan.pttps://github.com/lovebing/react-native-baidu-map)，感谢lovebing!添加了一个骑行路线规划的功能,去除了marker点击显示的功能，暂不支持ios；
+> 注意：
+> 
+> 1.此版本使用百度地图5.0.0版本；
+> 
+> 2.引入此组件，需要更新PropTypes,最新版本的RN已经将此API单独放一个包中；
+> 
+>   npm install --save prop-types
+> 
+> 替换组件中的MapView.js与Geolocation.js中的PropTypes
+> 
+> 引入方式：import  PropTypes from 'prop-types'
+> 
+
+___
 # react-native-baidu-map 
 
 Baidu Map SDK modules and view for React Native(Android & IOS), support react native 0.30+
